@@ -272,8 +272,7 @@ loss-landscape-analysis/
 │
 ├── theory/
 │   ├── theory.pdf                          # Complete theoretical framework
-│   └── proofs.pdf                          # Detailed theorem proofs
-                               # MIT License
+
 ```
 
 ---
